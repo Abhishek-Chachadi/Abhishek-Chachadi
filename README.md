@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Clinic Management System](https://github.com/Abhishek-Chachadi/Clinic-Management-System)
 
-- 🌱 I’m currently learning **Spring Boot, Next.js, React, JavaScript **
+- 🌱 I’m currently learning **Spring Boot, Next.js, React, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Chachadi/](https://github.com/Abhishek-Chachadi/)
 
