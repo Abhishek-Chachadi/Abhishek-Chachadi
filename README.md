@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Chachadi/](https://github.com/Abhishek-Chachadi/)
 
-- 💬 Ask me about **react, java, SQL, PLSQL**
+- 💬 Ask me about **React, Java, SQL, PLSQL**
 
 - 📫 How to reach me **chachadi555abhishek@gmail.com**
 
