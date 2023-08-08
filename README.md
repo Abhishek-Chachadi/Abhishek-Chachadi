@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-chachadi&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chachadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-chachadi" alt="abhishek-chachadi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/curryabhi" target="blank"><img src="https://img.shields.io/twitter/follow/curryabhi?logo=twitter&style=for-the-badge" alt="curryabhi" /></a> </p>
 
 - 🔭 I’m currently working on [Clinic Management System](https://github.com/Abhishek-Chachadi/Clinic-Management-System)
 
-- 🌱 I’m currently learning **Spring Boot, Next.js, React, JavaScript (currently)**
+- 🌱 I’m currently learning **Spring Boot, Next.js, React, JavaScript **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Chachadi/](https://github.com/Abhishek-Chachadi/)
 
